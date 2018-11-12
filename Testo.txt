@@ -1,6 +1,6 @@
-Papera 2
-papera 1
-papera 3
-papera 4
-papera 5
-papera 67
+for (int i=0, i<10, i++)
+{
+
+	cout << i;	
+   
+}
